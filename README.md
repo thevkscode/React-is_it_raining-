@@ -1,3 +1,7 @@
+#Task:
+Create a boolean state named 'itsRaining' in a classComponent. Initially, set it as false. Display “Is it Raining today? Yes”, if itsRaining is true else “Is it Raining today? No”
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
